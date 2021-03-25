@@ -1,6 +1,8 @@
 # metabase-py
 
-python wrapper for metabase api
+Metabase API Python wrapper
+
+Forked from [STUnitas/metabase-py](https://github.com/stunitas/metabase-py)
 
 ## Installation
 
