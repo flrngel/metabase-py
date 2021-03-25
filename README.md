@@ -4,13 +4,14 @@ Metabase API Python wrapper
 
 Forked from [STUnitas/metabase-py](https://github.com/stunitas/metabase-py)
 
-## Installation
+## How to use
+
 
 ```bash
 pip install metabase
 ```
 
-## How to use
+### Example Code
 
 ```python
 import pprint
