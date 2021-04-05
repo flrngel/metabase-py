@@ -68,4 +68,4 @@ This library wraps [requests](http://docs.python-requests.org/en/master/)
 
 ## Contributors
 
-see [here](https://github.com/STUnitas/metabase-py/graphs/contributors)
+see [here](https://github.com/STUnitas/flrngel/graphs/contributors)
